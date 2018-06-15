@@ -1,0 +1,24 @@
+[33mcommit 3ca7814888d17d8db5c245472266a35d72a716db[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Sigma wadbude <sigmawadbude@gmail.com>
+Date:   Fri Jun 15 11:22:09 2018 +0530
+
+    new Plugin added which add output content to page headers using wp_head hook
+
+[33mcommit d62fd578e0aab63309e5b35dbbe3e7a84145aab4[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Sigma wadbude <sigmawadbude@gmail.com>
+Date:   Fri Jun 15 11:06:08 2018 +0530
+
+    Created a plugin file and header
+
+[33mcommit 5da8cb102314bc9077b9d3716c6ff85b7f740c24[m
+Author: Sigma wadbude <sigmawadbude@gmail.com>
+Date:   Thu Jun 14 17:37:36 2018 +0530
+
+    Plugins Updated -Akismet -
+    duplicator
+
+[33mcommit 96a4d429355998010ee6d5f060a18d049099a620[m
+Author: Sigma wadbude <sigmawadbude@gmail.com>
+Date:   Thu Jun 14 17:30:32 2018 +0530
+
+    initial commit of plugins repo
